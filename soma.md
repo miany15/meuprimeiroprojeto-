@@ -1,2 +1,2 @@
-def multiplcao(a,b):
+def multiplicar(a,b):
 return a*b
